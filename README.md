@@ -4,7 +4,7 @@
 
 Descarga el [APK 0.1](https://github.com/SeCaVa/InfiniteFusion-Android/releases/download/v0.1/InfiniteFusion-Android-0.1.apk), instálalo y elige qué juego descargar. Android 8 o posterior.
 
-Lanzador e icono renovados, progreso de descarga e instalación, controles táctiles personalizables, velocidad y carrera con interruptor, importación de partidas y copias de seguridad. Mantiene los textos traducidos y la corrección de imagen del OnePlus One.
+Lanzador e icono renovados, progreso de descarga e instalación, controles táctiles personalizables, velocidad y carrera con interruptor, importación de partidas y copias de seguridad. Mantiene los textos traducidos y la correcciones de imágenes.
 
 Paquete: `com.secava.infinitefusion`. Se instala como otra app respecto a las versiones anteriores: exporta/importa tus partidas antes de borrar la antigua. La primera carga puede tardar; en móviles antiguos siguen existiendo pausas.
 

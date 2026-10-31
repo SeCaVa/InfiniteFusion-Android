@@ -4,7 +4,7 @@ Instala y juega a **Infinite Fusion 1 (Kanto)** e **Infinite Fusion 2 (Hoenn)** 
 
 ## Instalación
 
-1. Descarga el [APK 0.1.1](https://github.com/SeCaVa/InfiniteFusion-Android/releases/download/v0.1.1/InfiniteFusion-Android-0.1.1.apk) e instálalo.
+1. Descarga el [APK 0.1.2](https://github.com/SeCaVa/InfiniteFusion-Android/releases/download/v0.1.2/InfiniteFusion-Android-0.1.2.apk) e instálalo.
 2. Abre la app y descarga el juego que quieras.
 3. Pulsa **Jugar**.
 
@@ -12,7 +12,7 @@ Android 8 o posterior. Los archivos del juego y la traducción se descargan desd
 
 Incluye controles táctiles personalizables, velocidad y carrera con interruptor, importación de partidas y copias de seguridad.
 
-La versión 0.1.1 corrige la imagen girada del OnePlus One con Android 11 y añade caché de sprites.
+Incluye caché de sprites, evita descargas repetidas y corrige la imagen del OnePlus One con Android 11. Sin aviso automático de paquetes ni emblema en la carga; conserva las versiones traducidas de los textos.
 
 Versión en desarrollo: el primer arranque puede tardar y en móviles antiguos aún hay pausas al cargar sprites. Exporta las partidas importantes antes de desinstalar.
 
